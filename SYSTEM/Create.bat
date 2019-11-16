@@ -11,7 +11,7 @@ cd SYSTEM
   cd ..\
   exit /b 1
 ) || (
-  Echo !MCD!:%1.static >> MJOS\FILEPATH.MJOS
+  Echo !MCD!:%1.txt >> MJOS\FILEPATH.MJOS
   cd ..\
   exit /b 0
 )
