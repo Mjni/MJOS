@@ -23,3 +23,10 @@ Usage: Write NAME STRING <br>
 ## Read (R) <br>
 Read A File <br>
 Usage: Read NAME <br>
+
+# Creating Custom Commands <br>
+Creating Custom commands for MJOS is the same as making commands for the command prompt. <br>
+I would recommend checking out the following article if you are interested in making commands for MJOS. <br>
+https://www.instructables.com/id/How-to-Create-your-own-Commands-with-Batch/ <br>
+_Feel free to submit your commands!_
+
