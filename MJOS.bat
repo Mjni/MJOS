@@ -1,5 +1,5 @@
 @Echo off
-Title MJOS///1.0
+Title MJOS / 1.0
 CHCP 65001 >NUL
 setlocal enabledelayedexpansion
 if not exist SYSTEM\MJOS\ md SYSTEM\MJOS
